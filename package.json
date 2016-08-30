@@ -2,7 +2,6 @@
   "name": "vimrcbuilder",
   "version": "1.0.0",
   "description": "vimrc creation made easy",
-  "main": "index.js",
   "engines": {
     "node": "4.2.6",
     "npm": "2.14.2"
@@ -41,15 +40,7 @@
     "type": "git",
     "url": "git+https://github.com/dawsonbotsford/vimrcBuilder.git"
   },
-  "keywords": [
-    "vimrc",
-    "React",
-    "React.js",
-    "web app",
-    "vim",
-    "vimscript",
-    "javascript"
-  ],
+  "keywords": [],
   "author": "Dawson Botsford <dawsonbotsford@gmail.com> (http://dawsonbotsford.com)",
   "license": "MIT",
   "bugs": {
